@@ -1,0 +1,5 @@
+package com.perficient.demo.jaxrs;
+
+public class exceptions {
+
+}

@@ -1,0 +1,5 @@
+package com.perficient.demo.jaxrs.exceptions;
+
+public class UserNotFoundException {
+
+}

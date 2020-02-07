@@ -1,0 +1,47 @@
+package com.perficient.demo.jaxrs.controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.perficient.demo.jaxrs.exceptions.UserNotFoundException;
+import com.perficient.demo.jaxrs.model.User;
+import com.perficient.demo.jaxrs.userRepository.UseruserRepository;
+
+@RestController
+@RequestMapping("users")
+public class UserController {
+	private final UseruserRepository useruserRepository;
+	public UserController(UseruserRepository useruserRepository) {
+	    this.useruserRepository = useruserRepository;
+	}
+
+	@GetMapping
+	public Iterable<User> getUsers() {
+	    return useruserRepository.findAll();
+	} 
+	
+	@GetMapping("{id}")
+	public User getUser(@PathVariable Long id) {
+	    return useruserRepository.findById(id).orElseThrow(UserNotFoundException::new);
+	}  
+	
+	@PostMapping
+	public User addStudent(@RequestBody User user) {
+	    return useruserRepository.save(user);
+	} 
+	
+	@PutMapping("{id}")
+	public User updateStudent(@PathVariable Long id, @RequestBody User user) {
+	    User userToUpdate = userRepository.findById(id).orElseThrow(UserNotFoundException::new);
+	 
+	        userToUpdate.setFirstName(user.getFirstName());
+	        userToUpdate.setLastName(user.getLastName());
+	        userToUpdate.setYear(user.getYear());
+	 
+	    return userRepository.save(userToUpdate);
+	}
+}

@@ -34,6 +34,7 @@ public class JPAConnection {
 	        user.setEmail("username102@gamil.com");
 	        user.setFirst_name("FirstName 102");
 	        user.setLast_name("Last Name 102");
+	        /*
 	        SimpleDateFormat sdf = new SimpleDateFormat ("yyyy-MM-dd");
 	        java.util.Date dob=null;
 			try {
@@ -42,7 +43,9 @@ public class JPAConnection {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-	        user.setDate_of_birth(new Date(dob.getTime()));
+	        user.setDate_of_birth(new Date(dob.getTime()));*/
+			user.setDate_of_birth(Date.valueOf("1990-02-14"));
+			
 	        em.persist(user);
 	        em.getTransaction().commit();
 	        em.close();

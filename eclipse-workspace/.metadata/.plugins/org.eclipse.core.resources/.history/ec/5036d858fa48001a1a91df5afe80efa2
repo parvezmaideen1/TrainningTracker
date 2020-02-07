@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.perficient.demo.jaxrs.repository;
+
+/**
+ * @author parvez.maideen
+ *
+ */
+
+import com.perficient.demo.jaxrs.model.User;
+ 
+public interface StudentRepository extends CrudRepository<Student, Long> {
+ 
+}

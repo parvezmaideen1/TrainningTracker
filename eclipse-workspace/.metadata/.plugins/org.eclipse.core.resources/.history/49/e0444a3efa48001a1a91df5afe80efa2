@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.perficient.demo.jaxrs.repository;
+
+/**
+ * @author parvez.maideen
+ *
+ */
+public class StudentRepository {
+
+}

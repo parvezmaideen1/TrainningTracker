@@ -1,0 +1,16 @@
+package com.perficient.javacoe;
+
+import java.sql.Date;
+
+import javax.persistence.Entity;
+
+@Entity
+public class User {
+	private int iduser;
+	private String username;
+	private String email;
+	private String first_name;
+	private String last_name;
+	private Date date_of_birth;
+	
+}

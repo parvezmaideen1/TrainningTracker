@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.perficient.javacoe;
+
+/**
+ * @author parvez.maideen
+ *
+ */
+public class MySQLConnection {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

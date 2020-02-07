@@ -1,0 +1,3 @@
+cxf.path=/studentservice
+cxf.jaxrs.classes-scan=true
+cxf.jaxrs.classes-scan-packages=com.javacodegeeks.examples.jaxrs,org.codehaus.jackson.jaxrs

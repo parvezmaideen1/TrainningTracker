@@ -1,0 +1,2638 @@
+!SESSION 2019-07-23 10:20:19.550 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-23 10:21:07.065
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-23 10:21:43.988
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-05 06:36:12.126 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-05 06:37:14.700
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-05 06:37:49.793
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-05 09:47:38.986 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-05 09:48:04.674
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-05 09:48:56.278
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-05 15:15:21.436 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-05 15:15:52.595
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-05 15:16:22.090
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-05 19:09:48.594 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-05 19:10:03.143
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-05 19:10:20.991
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-06 09:05:49.581 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-06 09:06:36.646
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-06 09:07:18.831
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-06 19:26:02.297 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-06 19:26:39.316
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-06 19:27:06.943
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-06 20:41:33.519 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-06 20:41:50.095
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-06 20:42:04.980
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-06 20:49:25.591 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/D:/Work/eclipse-workspace/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-06 20:49:38.806
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2020-02-06 20:49:40.644
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-02-06 20:49:40.644
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@25fc2b8f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@363d29dd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:48.314
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:48.354
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4927ff61[org.springframework.tooling.boot.ls:1.14.0.201912170939(id=1002)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:48.366
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-06 20:49:48.676
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:49.220
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.193
+!MESSAGE Boot LS startup time from start to initialized: 4797ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.237
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GmzoQyOXisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.421
+!MESSAGE subscribing to classpath changes: sts4.classpath.GmzoQyOX isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.438
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.446
+!MESSAGE subsribers = {sts4.classpath.GmzoQyOX=Send Classpath Notifications(68)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.450
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.453
+!MESSAGE project MySQLDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.457
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.461
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.465
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GmzoQyOX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.478
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.488
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.496
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.500
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 20:49:53.587
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.eclipse.ui 4 0 2020-02-06 20:54:57.829
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4699)
+	at org.eclipse.swt.SWT.error(SWT.java:4614)
+	at org.eclipse.swt.SWT.error(SWT.java:4585)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:451)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:350)
+	at org.eclipse.swt.widgets.Control.setFocus(Control.java:3449)
+	at org.springframework.ide.eclipse.boot.wizard.SearchBoxSection.focusControl(SearchBoxSection.java:110)
+	at org.springframework.ide.eclipse.boot.wizard.MultipleViewsDependencyPage.lambda$4(MultipleViewsDependencyPage.java:122)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1080)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Control.setVisible(Control.java:3933)
+	at org.eclipse.jface.dialogs.DialogPage.setVisible(DialogPage.java:463)
+	at org.eclipse.jface.wizard.WizardDialog.updateForPage(WizardDialog.java:1254)
+	at org.eclipse.jface.wizard.WizardDialog.lambda$3(WizardDialog.java:1224)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+	at org.eclipse.jface.wizard.WizardDialog.showPage(WizardDialog.java:1224)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:919)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:468)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:622)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3944)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3547)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:260)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:280)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:95)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:320)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:254)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:498)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:392)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:142)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:412)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3944)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3547)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-06 20:56:49.536
+!MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-06 20:57:10.905
+!MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-06 20:59:19.818
+!MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-06 20:59:20.710
+!MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-06 20:59:21.754
+!MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-06 20:59:22.708
+!MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-06 20:59:23.738
+!MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-06 20:59:24.793
+!MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:01.471
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:01.472
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:01.473
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:01.474
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:01.478
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:01.489
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.498
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.499
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.504
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.509
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.510
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.528
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.781
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.784
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.790
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.799
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.800
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:09.807
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:14.331
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:14.332
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:14.340
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:14.344
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:14.345
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:14.353
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:15.552
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:15.554
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:15.559
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:15.562
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:15.563
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:00:15.569
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.585
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.586
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.597
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.603
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.605
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.613
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.813
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.814
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.818
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.820
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.821
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:02:03.827
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.270
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.271
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.275
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.278
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.279
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.348
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.637
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.643
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.669
+!MESSAGE classpath=113 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.680
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.681
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:10.688
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:12.259
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:12.262
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:12.267
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:12.270
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:12.271
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:06:12.276
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2020-02-06 21:06:41.298
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.430
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.432
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.440
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.448
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.449
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.481
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.575
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.577
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.582
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.585
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.587
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:01.598
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:40.357
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:40.358
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:40.362
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:40.366
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:40.367
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:07:40.374
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.205
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.207
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.222
+!MESSAGE classpath=113 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.233
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.234
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.258
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.802
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.803
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.805
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.807
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.808
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:18.831
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:41.553
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:41.567
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:41.575
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:41.578
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:41.580
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:08:41.594
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.005
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.006
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.010
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.013
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.014
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.021
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.196
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.200
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.232
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.243
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.244
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:07.252
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:08.579
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:08.582
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:08.591
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:08.594
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:08.595
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:08.600
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.333
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.339
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.355
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.366
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.367
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.375
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.616
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.617
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.622
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.624
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.625
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:11:19.636
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:14.373
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:14.375
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:14.381
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:14.386
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:14.387
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:14.395
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:15.645
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:15.647
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:15.650
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:15.652
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:15.653
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:12:15.656
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-06 21:14:40.013
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n\t<groupId>... @16:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n\t<groupId>... @16:11) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2082)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-06 21:14:40.013
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n\t<groupId>... @16:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n\t<groupId>... @16:11) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2082)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:40.095
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:40.096
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:40.101
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:40.104
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:40.104
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:40.109
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-06 21:14:41.330
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n\t<groupId>... @16:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n\t<groupId>... @16:11) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2082)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-06 21:14:41.330
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n\t<groupId>... @16:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n\t<groupId>... @16:11) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2082)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.335
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.337
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.344
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.348
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.353
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.368
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.535
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.537
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.541
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.544
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 21
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.545
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:14:41.549
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.439
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.440
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.445
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.450
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.453
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.465
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.491
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.494
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.510
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.521
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.522
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:13.555
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:14.264
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:14.268
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:14.272
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:14.279
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:14.281
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:14.312
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:15.779
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:15.783
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:15.787
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:15.789
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:15.792
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:15:15.802
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-06 21:16:08.419
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n    \n\t<groupId>... @18:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n    \n\t<groupId>... @18:11) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2082)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-06 21:16:08.419
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n    \n\t<groupId>... @18:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n    \n\t<groupId>... @18:11) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2082)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:08.502
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:08.503
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:08.507
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:08.509
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:08.510
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:08.515
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-06 21:16:09.789
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n    \n\t<groupId>... @18:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n    \n\t<groupId>... @18:11) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2082)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-06 21:16:09.789
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n    \n\t<groupId>... @18:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'groupId' (position: START_TAG seen ...</description>\n    \n\t<groupId>... @18:11) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2082)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.791
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.794
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.801
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.804
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.805
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.816
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.971
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.972
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.976
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.980
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 21
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.982
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:09.992
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.614
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.615
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.618
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.620
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.621
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.628
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.656
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.657
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.673
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.681
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.682
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:42.689
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:44.266
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:44.270
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:44.276
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:44.280
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:44.281
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:16:44.291
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.249
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.254
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.268
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.285
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.286
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.295
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.296
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.299
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.304
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.307
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.308
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:25.416
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.076
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.093
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.106
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.113
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.116
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.125
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.714
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.718
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.722
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.725
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.727
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:21:26.735
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-06 21:21:54.359
+!MESSAGE Could not download sources for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-06 21:21:54.360
+!MESSAGE Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-06 21:21:54.360
+!MESSAGE Missing antlr:antlr:jar:sources:2.7.7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.106
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.108
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.129
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.144
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.145
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.159
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.437
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.438
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.442
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.444
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.445
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:23:25.449
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-06 21:23:27.093
+!MESSAGE Could not download javadoc for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-06 21:23:27.094
+!MESSAGE Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-06 21:23:27.094
+!MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:04.775
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:04.778
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:04.790
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:04.798
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:04.801
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:04.810
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:06.252
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:06.253
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:06.256
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:06.258
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:06.259
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:06.261
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.465
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.466
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.469
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.471
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.471
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.477
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.631
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.633
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.647
+!MESSAGE classpath=142 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.661
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.661
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:48.669
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:50.725
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:50.728
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:50.732
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:50.734
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:50.735
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:24:50.741
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:25:07.990
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:25:07.991
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:25:07.995
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:25:07.997
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:25:07.997
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:25:07.999
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:26:25.593
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:26:25.594
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:26:25.598
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:26:25.601
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:26:25.602
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:26:25.606
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:00.256
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:00.257
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:00.262
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:00.264
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:00.265
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:00.270
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:21.754
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:21.755
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:21.759
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:21.762
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:21.762
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:27:21.764
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:31:55.380
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:31:55.385
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:31:55.390
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:31:55.392
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:31:55.393
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:31:55.400
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.768
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.769
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.773
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.776
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.777
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.783
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.884
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.885
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.888
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.890
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.891
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:32:38.894
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:33:41.491
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:33:41.492
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:33:41.495
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:33:41.498
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:33:41.499
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:33:41.506
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.267
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.268
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.271
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.275
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.277
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.285
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.396
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.397
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.401
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.403
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.404
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:26.407
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:50.010
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:50.012
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:50.017
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:50.020
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:50.022
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:34:50.034
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.003
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.004
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.009
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.011
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.012
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.019
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.121
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.122
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.126
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.128
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.129
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:31.133
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:51.992
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:51.994
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:51.997
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:51.998
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:51.998
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:35:52.001
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:04.510
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:04.511
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:04.515
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:04.517
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:04.518
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:04.523
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:33.936
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:33.937
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:33.942
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:33.944
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:33.947
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:33.953
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:34.061
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:34.064
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:34.069
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:34.073
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:34.074
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:36:34.077
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:37:48.053
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:37:48.055
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:37:48.059
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:37:48.061
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:37:48.062
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:37:48.074
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:00.867
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:00.869
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:00.874
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:00.877
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:00.878
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:00.887
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:22.120
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:22.122
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:22.126
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:22.128
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:22.129
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:22.132
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:59.524
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:59.525
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:59.529
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:59.532
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:59.533
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:39:59.540
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:42:06.845
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:42:06.849
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:42:06.856
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:42:06.859
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:42:06.860
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:42:06.874
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-02-06 21:43:25.591
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:109)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:44:51.659
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:44:51.662
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:44:51.669
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:44:51.671
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:44:51.672
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:44:51.681
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:45:58.161
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:45:58.164
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:45:58.168
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:45:58.170
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:45:58.171
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:45:58.177
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:48:41.445
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:48:41.447
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:48:41.451
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:48:41.454
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:48:41.455
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:48:41.462
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:05.855
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:05.857
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:05.861
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:05.863
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:05.864
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:05.869
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:12.756
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:12.759
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:12.767
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:12.770
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:12.771
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:52:12.782
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:19.481
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:19.486
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:19.491
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:19.493
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:19.494
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:19.502
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:29.396
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:29.398
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:29.402
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:29.405
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:29.406
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 21:53:29.409
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:34.395
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:34.396
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:34.410
+!MESSAGE classpath=115 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:34.421
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX spring-boot-jaxrs false 115
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:34.422
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:34.981
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:34.988
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:34.990
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:35.021
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:35.027
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:35.028
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:35.051
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:36.960
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:36.962
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:36.968
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:36.972
+!MESSAGE buffering callback sts4.classpath.GmzoQyOX MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:36.974
+!MESSAGE executing callback sts4.classpath.GmzoQyOX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:00:36.987
+!MESSAGE executing callback sts4.classpath.GmzoQyOX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:02:58.115
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GmzoQyOX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:02:58.116
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.GmzoQyOX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:02:58.117
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:02:58.118
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GmzoQyOX => OK
+!SESSION 2020-02-06 22:12:38.130 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-06 22:12:51.163
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2020-02-06 22:12:53.538
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-02-06 22:12:53.538
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3146f3d7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4220468,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-06 22:13:11.554
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2020-02-06 22:14:12.423
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2020-02-06 22:18:35.223 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-06 22:18:41.358
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2020-02-06 22:18:42.996
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-02-06 22:18:42.996
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5354bfce,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74901d7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-06 22:18:51.355
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:18:57.057
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:18:57.061
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7991e022[org.springframework.tooling.boot.ls:1.14.0.201912170939(id=1002)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:18:57.077
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:18:57.507
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:08.966
+!MESSAGE Boot LS startup time from start to initialized: 11867ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.038
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ILJZGaalisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.063
+!MESSAGE subscribing to classpath changes: sts4.classpath.ILJZGaal isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.068
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.075
+!MESSAGE subsribers = {sts4.classpath.ILJZGaal=Send Classpath Notifications(805)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.078
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.082
+!MESSAGE project spring-boot-jaxrs ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.087
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.090
+!MESSAGE project MySQLDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.093
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.098
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.103
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ILJZGaal => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.118
+!MESSAGE classpath=115 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.130
+!MESSAGE buffering callback sts4.classpath.ILJZGaal spring-boot-jaxrs false 115
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.137
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.140
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.147
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.152
+!MESSAGE buffering callback sts4.classpath.ILJZGaal MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.156
+!MESSAGE executing callback sts4.classpath.ILJZGaal 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:19:09.245
+!MESSAGE executing callback sts4.classpath.ILJZGaal SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:21:08.678
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ILJZGaal
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:21:08.682
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ILJZGaal
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:21:08.693
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:21:08.703
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ILJZGaal => OK
+
+!ENTRY org.eclipse.ui 2 2 2020-02-06 22:21:09.367
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2020-02-06 22:28:18.021 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-06 22:28:24.967
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2020-02-06 22:28:26.751
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-02-06 22:28:26.751
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d260494,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@d43f205,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:32.667
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:32.683
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@45412cb8[org.springframework.tooling.boot.ls:1.14.0.201912170939(id=1002)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:32.698
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-06 22:28:32.886
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:33.121
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.508
+!MESSAGE Boot LS startup time from start to initialized: 7774ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.565
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MsLkywxHisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.583
+!MESSAGE subscribing to classpath changes: sts4.classpath.MsLkywxH isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.590
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.596
+!MESSAGE subsribers = {sts4.classpath.MsLkywxH=Send Classpath Notifications(74)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.600
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.603
+!MESSAGE project spring-boot-jaxrs ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.607
+!MESSAGE project MySQLDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.612
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.618
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.622
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.626
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MsLkywxH => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.649
+!MESSAGE classpath=115 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.659
+!MESSAGE buffering callback sts4.classpath.MsLkywxH spring-boot-jaxrs false 115
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.665
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.669
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.678
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.684
+!MESSAGE buffering callback sts4.classpath.MsLkywxH MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:40.687
+!MESSAGE executing callback sts4.classpath.MsLkywxH 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:28:41.527
+!MESSAGE executing callback sts4.classpath.MsLkywxH SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:30.459
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:30.461
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:30.466
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:30.470
+!MESSAGE buffering callback sts4.classpath.MsLkywxH MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:30.472
+!MESSAGE executing callback sts4.classpath.MsLkywxH 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:30.480
+!MESSAGE executing callback sts4.classpath.MsLkywxH SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:41.878
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MsLkywxH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:41.889
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.MsLkywxH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:41.894
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-06 22:31:41.898
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MsLkywxH => OK
+
+!ENTRY org.eclipse.ui 2 2 2020-02-06 22:31:42.601
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2020-02-07 09:28:44.539 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-07 09:28:52.399
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2020-02-07 09:28:54.113
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-02-07 09:28:54.113
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74901d7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3146f3d7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-07 09:29:02.698
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Parvez.Maideen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:04.295
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:04.298
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@282e8536[org.springframework.tooling.boot.ls:1.14.0.201912170939(id=1002)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:04.311
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:04.833
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:22.863
+!MESSAGE Boot LS startup time from start to initialized: 18524ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:22.949
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.pjODXLzHisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:22.983
+!MESSAGE subscribing to classpath changes: sts4.classpath.pjODXLzH isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:22.990
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:22.997
+!MESSAGE subsribers = {sts4.classpath.pjODXLzH=Send Classpath Notifications(787)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.003
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.007
+!MESSAGE project MySQLDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.012
+!MESSAGE project spring-boot-jaxrs ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.017
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.020
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.024
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.028
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.pjODXLzH => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.037
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.043
+!MESSAGE buffering callback sts4.classpath.pjODXLzH MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.048
+!MESSAGE Preparing classpath changed notification spring-boot-jaxrs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.056
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.100
+!MESSAGE classpath=115 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.114
+!MESSAGE buffering callback sts4.classpath.pjODXLzH spring-boot-jaxrs false 115
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.117
+!MESSAGE executing callback sts4.classpath.pjODXLzH 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:23.184
+!MESSAGE executing callback sts4.classpath.pjODXLzH SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:36.274
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:36.277
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:36.284
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:36.289
+!MESSAGE buffering callback sts4.classpath.pjODXLzH MySQLDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:36.293
+!MESSAGE executing callback sts4.classpath.pjODXLzH 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 09:29:36.310
+!MESSAGE executing callback sts4.classpath.pjODXLzH SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2020-02-07 09:29:55.264
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 11:09:03.374
+!MESSAGE Preparing classpath changed notification MySQLDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 11:09:03.377
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 11:09:03.379
+!MESSAGE buffering callback sts4.classpath.pjODXLzH MySQLDemo true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 11:09:03.401
+!MESSAGE executing callback sts4.classpath.pjODXLzH 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-07 11:09:03.440
+!MESSAGE executing callback sts4.classpath.pjODXLzH SUCCESS [done]
+
+!ENTRY org.eclipse.jface.text 4 0 2020-02-07 11:09:13.686
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.getMethods(BinaryTypeBinding.java:1323)
+	at org.eclipse.jdt.internal.compiler.lookup.AnnotationBinding.setMethodBindings(AnnotationBinding.java:234)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.createAnnotation(LookupEnvironment.java:990)
+	at org.eclipse.jdt.internal.compiler.lookup.AnnotationBinding.buildRetentionAnnotation(AnnotationBinding.java:126)
+	at org.eclipse.jdt.internal.compiler.lookup.AnnotationBinding.addStandardAnnotations(AnnotationBinding.java:81)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.retrieveAnnotations(BinaryTypeBinding.java:1643)
+	at org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding.getAnnotations(ReferenceBinding.java:1016)
+	at org.eclipse.jdt.core.dom.TypeBinding.getAnnotations(TypeBinding.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getAnnotations(JavadocHover.java:1192)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.addAnnotations(JavadocHover.java:1149)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:757)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:678)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:670)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
